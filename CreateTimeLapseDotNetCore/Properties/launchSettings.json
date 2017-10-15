@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreateTimeLapseDotNetCore": {
+      "commandName": "Project",
+      "commandLineArgs": "http://192.168.10.200:8080/%3faction=snapshot R:\\Temp\\Test.avi 10 1 30 matsussa T8hYzu4L"
+    }
+  }
+}
